@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SHIN</string>
+    <string name="quick_tile_label">SHIN</string>
+    <string name="widget_description">ویجت اتصال و قطع VPN برنامه SHIN</string>
+</resources>
