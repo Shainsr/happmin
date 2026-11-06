@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happ One</string>
+    <string name="quick_tile_label">Happ VPN</string>
+    <string name="widget_description">اتصال و قطع اتصال VPN از صفحهٔ اصلی</string>
+</resources>
